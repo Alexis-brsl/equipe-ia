@@ -1,0 +1,10 @@
+{
+  "name": "Mon Équipe IA",
+  "short_name": "Équipe IA",
+  "description": "Votre micro-société IA personnelle",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0E0C",
+  "theme_color": "#0F0E0C",
+  "orientation": "portrait"
+}
